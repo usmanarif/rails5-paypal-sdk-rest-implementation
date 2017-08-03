@@ -1,5 +1,9 @@
 # README
 
+
+# paypal_intgeration
+Implementation of Paypal SDK REST in Rails basic application
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -22,3 +26,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
