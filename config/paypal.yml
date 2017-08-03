@@ -3,8 +3,8 @@ test: &default
   # Credentials for New APIs
   mode: sandbox
   rest_endpoint: 'https://api.sandbox.paypal.com'
-  client_id: AczFp5xi_Jg9-MX6fljPmmmcfB-HWFA_dzh_FORVA4q-TcX32RswPlwSUMpIEwUwyMzFuyco8jj4ueM_
-  client_secret: ENK-chLgpAMGF1YT5Wlr9C_QPQNDEtNcQxouSJ82rYV9B_9xvgLP9NkfcRoqwGMayn7DwFDuxQoO4ftR
+  client_id: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  client_secret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
   # Mode can be 'live' or 'sandbox'
 
@@ -15,7 +15,7 @@ production:
   #<<: *default
   mode: live
   rest_endpoint: 'https://api.paypal.com'
-  client_id: ARgVjxCW_rMu22vZwnvJ4kOvzvmBcoF2kZiAMHp1h2MDjKVuoT7nPgWVBVTO
-  client_secret: EJDuNRD7204KtKyyzRS5poBHK-sSBsW2U0iIOaQSfdZBj8gsDFm3UnVs8qBe
+  client_id: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  client_secret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
